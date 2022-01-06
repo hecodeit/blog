@@ -20,3 +20,7 @@ date:   2020-11-01 09:50
 10. Handcraft, DIY books;
 11. infographic;
 12. sketch, figma plugins;
+
+
+### Ideas
+1. Stop Motion App with OpenCV ArUco Markers;
